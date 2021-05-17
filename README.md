@@ -1,4 +1,2 @@
-# SoC-Bonfire-Core
-
-SoC for FPGA based in the BonFire RISC-V Processor<br>
-Made for the Artix 7 series 35-T with Vivado 2019.1<br>
+# ILA Core Data
+iladata.csv data obtained from the first check of the IP Core with a FIFO buffer at the end <br>
